@@ -1,3 +1,4 @@
 {
-  "about" : "A project to make a fake api call"
+  "about" : "A project to make a fake api call",
+  "channels" : ["main", "politics", "academics", "connection", "stresss", "rants"] 
 }
