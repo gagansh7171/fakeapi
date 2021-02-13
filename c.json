@@ -1,5 +1,5 @@
-{'data':["How do you close the second route and return to the first? By using the Navigator.pop() method. The pop() method removes the current Route from the stack of routes managed by the Navigator.
+["How do you close the second route and return to the first? By using the Navigator.pop() method. The pop() method removes the current Route from the stack of routes managed by the Navigator.
 
 To implement a return to the original route, update the onPressed() callback in the SecondRoute widget", "Icon buttons don't support specifying a background color or other background decoration because typically the icon is just displayed on top of the parent widget's background. Icon buttons that appear in AppBar.actions are an example of this.
 
-It's easy enough to create an icon button with a filled background using the Ink widget. The Ink widget renders a decoration on the underlying Material along with the splash and highlight InkResponse contributed by descendant widgets."]}
+It's easy enough to create an icon button with a filled background using the Ink widget. The Ink widget renders a decoration on the underlying Material along with the splash and highlight InkResponse contributed by descendant widgets."]
